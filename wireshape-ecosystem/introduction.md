@@ -12,7 +12,11 @@ Wireshape founders have been in the 3D computer graphics industry for more than 
 
 ## What makes Wireshape unique?
 
-Projects are containers for task lists. Think of them as a library for everything your team needs to get done to complete or ship a project.
+There are a few key reasons that make Wireshape different, whether as a 3D model provider or a software provider.
+
+1\.
+
+
 
 ## Creating a project
 
