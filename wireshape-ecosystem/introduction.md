@@ -14,7 +14,11 @@ Wireshape founders have been in the 3D computer graphics industry for more than 
 
 There are a few key reasons that make Wireshape different, whether as a 3D model provider or a software provider.
 
-1\.
+1. Wireshape is focused on delivering exclusively 3D scanned models, with quality and delivery standards compatible with the main tools on the market.
+2. Our software is capable of generating high definition 3D models in the cloud from photos.
+3. We work with contributing photographers from around the world, who upload their photos through our platform to generate the 3D models automatically in the cloud.
+4. We utilize decentralized finance to ensure our global reach with reduced cost of international financial transactions and greater accessibility.
+5. We guarantee the right to receive royalties through NFTs. Wireshape distributes its revenue from subscriptions to the 3D Scanned Assets Stock in $WIRE to contributors or those who own these special NFTs.
 
 
 
