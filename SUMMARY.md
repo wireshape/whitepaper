@@ -2,11 +2,11 @@
 
 * [Overview](README.md)
 
-## Guides
+## Wireshape Ecosystem
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [Introduction](wireshape-ecosystem/introduction.md)
+* [Creating your first task](wireshape-ecosystem/creating-your-first-task.md)
+* [Advanced permissions](wireshape-ecosystem/advanced-permissions.md)
 
 ## Fundamentals
 
