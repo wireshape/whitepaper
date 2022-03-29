@@ -1,6 +1,6 @@
 # Introduction
 
-### Why Wireshape?
+## Why Wireshape?
 
 Wireshape ecosystem has been developed to help the 3D computer graphics industry achieve fast and accurate results. This new approach will allow the popularization of the use of AAA 3D models, because with our solution, metaverse, game and visual effects productions will be able to save time and money while raising the level of realism of their content.
 
