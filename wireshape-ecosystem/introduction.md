@@ -10,7 +10,7 @@ The traditional creation of 3D models requires a slow and complex pipeline, whic
 Wireshape founders have been in the 3D computer graphics industry for more than 10 years, so we are oriented by the professional and productions needs.
 {% endhint %}
 
-## The basics
+## What makes Wireshape unique?
 
 Projects are containers for task lists. Think of them as a library for everything your team needs to get done to complete or ship a project.
 
