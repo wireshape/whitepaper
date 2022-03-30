@@ -8,13 +8,6 @@
 * [Creating your first task](wireshape-ecosystem/creating-your-first-task.md)
 * [Advanced permissions](wireshape-ecosystem/advanced-permissions.md)
 
-## Fundamentals
-
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
-
 ## Use Cases
 
 * [For Designers](use-cases/for-designers/README.md)
