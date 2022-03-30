@@ -5,8 +5,6 @@
 ## Wireshape Ecosystem
 
 * [Introduction](wireshape-ecosystem/introduction.md)
-* [Creating your first task](wireshape-ecosystem/creating-your-first-task.md)
-* [Advanced permissions](wireshape-ecosystem/advanced-permissions.md)
 
 ## Use Cases
 
@@ -16,7 +14,3 @@
   * [GitHub Integration](use-cases/for-engineers/github-integration.md)
 * [For Support](use-cases/for-support/README.md)
   * [Intercom Integration](use-cases/for-support/intercom-integration.md)
-
-## Extras
-
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
