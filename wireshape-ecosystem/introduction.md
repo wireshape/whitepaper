@@ -22,3 +22,13 @@ There are a few key reasons that make Wireshape different.
 6. Contributors will receive special NFTs that guarantee their royalties. Wireshape distributes its revenue from subscriptions to the 3D Scanned Assets Stock in $WIRE to contributors and owners of these special NFTs.
 7. We are creating opportunities to encourage the emergence of new projects that drive the metaverse and web3. Such as creating a launchpad / investment fund for such projects.
 8. The founding team has a combined 30 years of experience in the 3D industry. We feel in the skin the pain of this market and we know our customer.
+
+## At the Time and Place
+
+We are in a revolutionary period of transition from web2 to web3. The metaverse market is booming owing to increasing demand from end-use industries, which prominently include media and entertainment, education and aerospace. The growing demand for metaverse to purchase digital assets using cryptocurrencies is expected to drive the market significantly. The development and distribution of Augmented reality (AR), Virtual Reality (VR), and Mixed Reality (MR) devices are anticipated to spur market growth in years to come.
+
+The metaverse is the advent of new online environments in which people's interactions are more multidimensional and they can engage more deeply with digital content rather than merely reading it. On Metaverse platforms that allow blockchain technology to be utilized, users can create, own, and trade autonomous digital assets and virtual regions using cryptocurrencies, as well as nonfungible tokens (NFTs).
+
+Rising demand for blockchain-based metaverse networks and platforms for trading digital assets is expected to drive considerable market revenue growth. One of the major factors driving the future expansion of the metaverse business is the rise of the gaming industry.
+
+See more about the global metaverse market size report on ResearchAndMarkets.com.
