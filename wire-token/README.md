@@ -1,0 +1,2 @@
+# WIRE Token
+

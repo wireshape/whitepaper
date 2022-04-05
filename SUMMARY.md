@@ -6,6 +6,12 @@
 
 * [Introduction](wireshape-ecosystem/introduction.md)
 
+***
+
+* [WIRE Token](wire-token/README.md)
+  * [Tokenomics](wire-token/tokenomics.md)
+  * [Token Utility](wire-token/token-utility.md)
+
 ## Use Cases
 
 * [For Designers](use-cases/for-designers/README.md)
