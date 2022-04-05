@@ -26,6 +26,26 @@ Filmmakers, Metaverse and Game developers will be able to compose incredibly rea
 
 $WIRE is a token with true real world use purpose. The holders will be able to stake to vote on DAO governance and to earn staking rewards, attend to exclusive events, pay for Wireshape Library and 3D Scan Software Subscriptions, access the Let's education platform, pay the contributors royalties and more.
 
+### Max Supply
+
+1B
+
+### Token Symbol
+
+$WIRE
+
+### Chain
+
+Polygon
+
+### LP | DEX
+
+WIRE/USDC | SushiSwap
+
+### Farms / Rewards
+
+100M WIRE during 730 days from TGE
+
 > $WIRE Token has not released yet, launching date to be announced.&#x20;
 
 ![](.gitbook/assets/header-wireshape.jpg)

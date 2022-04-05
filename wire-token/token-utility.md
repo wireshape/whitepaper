@@ -1,6 +1,6 @@
 # Token Utility
 
-$WIRE token true real world use purpose:
+$WIRE token use purpose:
 
 * Buy Wireshape Library Subscriptions
 * Access Education Platform

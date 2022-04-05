@@ -1,16 +1,14 @@
 # Tokenomics
 
-## WIRE Specifications:
+## WIRE Specifications
 
 **Max Supply:** 1B\
 **Token Symbol:** $WIRE\
 **Chain:** Polygon\
 **LP | DEX:** WIRE/USDC | SushiSwap\
-**Farms / Rewards:** 100M WIRE during 730 days from TGE\
-\
-$WIRE Token has not released yet, launching date to be announced.
+**Farms / Rewards:** 100M WIRE during 730 days from TGE
 
-
+> $WIRE Token has not released yet, launching date to be announced.
 
 ## Token Allocation
 
