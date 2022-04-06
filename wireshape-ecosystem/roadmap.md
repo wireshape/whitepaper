@@ -1,6 +1,6 @@
 # Roadmap
 
-![](.gitbook/assets/wireshape-roadmap.jpg)
+![](../.gitbook/assets/wireshape-roadmap.jpg)
 
 * **2021** | 3D Scan Platform and Library Closed Beta&#x20;
 * **Early 2022** | Seed Round and Public Sale&#x20;

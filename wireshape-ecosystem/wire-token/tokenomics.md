@@ -12,7 +12,7 @@
 
 ## Token Allocation
 
-![](../.gitbook/assets/wire-token-distribution.jpg)
+![](../../.gitbook/assets/wire-token-distribution.jpg)
 
 * Subscription Pool - 20%
 * Team & Advisors - 17%
