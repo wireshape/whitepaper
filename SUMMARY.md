@@ -6,6 +6,7 @@
 
 * [Introduction](wireshape-ecosystem/introduction.md)
 * [Decentralized Metaverse](wireshape-ecosystem/decentralized-metaverse.md)
+* [Traditional Method](wireshape-ecosystem/traditional-method.md)
 
 ***
 
