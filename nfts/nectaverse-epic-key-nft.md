@@ -1,6 +1,4 @@
-# NFTs
-
-## Nectaverse Epic Key NFT
+# Nectaverse Epic Key NFT
 
 Created using 3D scanned nectarines by Wireshape, this special NFT entitles its owners to receive $WIRE token in proportion to the number of NFTs owned.
 
@@ -12,10 +10,4 @@ Nectaverse Epic Key is an ERC-1155 token on Polygon blockchain.
 Check it out on OpenSea: [https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/31149075679719608192326327620048614743059231687604943005949661111362020017824](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/31149075679719608192326327620048614743059231687604943005949661111362020017824)
 {% endhint %}
 
-![](.gitbook/assets/6.jpg)
-
-## NFTs for Wireshape Contributors
-
-Each 3D project created on Wireshape 3D scan cloud platform generates Wireshape NFTs that will be distributed to the co-authors of such a project. These NFTs can be collected, traded in decentralized marketplaces or transferred as they wish.&#x20;
-
-The owners of these NFTs will receive all the $WIRE tokens received on Wireshape Library Subscriptions.&#x20;
+![](../.gitbook/assets/6.jpg)

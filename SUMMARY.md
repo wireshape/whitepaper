@@ -11,5 +11,7 @@
 * [WIRE Token](wire-token/README.md)
   * [Tokenomics](wire-token/tokenomics.md)
   * [Token Utility](wire-token/token-utility.md)
-* [NFTs](nfts.md)
+* [NFTs](nfts/README.md)
+  * [Nectaverse Epic Key NFT](nfts/nectaverse-epic-key-nft.md)
+  * [NFTs for Wireshape Contributors](nfts/nfts-for-wireshape-contributors.md)
 * [Roadmap](roadmap.md)
