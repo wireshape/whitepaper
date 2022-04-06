@@ -12,6 +12,8 @@ Wireshape founders have been in the 3D computer graphics industry for more than 
 
 With an accurate photogrammetry technique, the Wireshape cloud platform automatically generates 3D objects from photos, that will be made available to computer graphic projects, allowing brilliant photographers around the globe to use their creativity and skill to explore the world in details and receive NFTs and recurring payouts in $WIRE by becoming contributors.
 
+![](../.gitbook/assets/reality-hack.jpg)
+
 ## What makes Wireshape unique?
 
 There are a few key reasons that make Wireshape different.
@@ -24,6 +26,8 @@ There are a few key reasons that make Wireshape different.
 6. Contributors will receive special NFTs that guarantee their royalties. Wireshape distributes its revenue from subscriptions to the 3D Scanned Assets Stock in $WIRE to contributors and owners of these special NFTs.
 7. We are creating opportunities to encourage the emergence of new projects that drive the metaverse and web3. Such as creating a launchpad / investment fund for such projects.
 8. The founding team has a combined 30 years of experience in the 3D industry. We feel in the skin the pain of this market and we know our customer.
+
+![](../.gitbook/assets/decentralized-metaverse.jpg)
 
 ## At the Time and Place
 
