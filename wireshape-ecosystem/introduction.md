@@ -10,6 +10,8 @@ The traditional creation of 3D models requires a slow and complex pipeline, whic
 Wireshape founders have been in the 3D computer graphics industry for more than 10 years, so we are oriented by the professional and productions needs.
 {% endhint %}
 
+With an accurate photogrammetry technique, the Wireshape cloud platform automatically generates 3D objects from photos, that will be made available to computer graphic projects, allowing brilliant photographers around the globe to use their creativity and skill to explore the world in details and receive NFTs and recurring payouts in $WIRE by becoming contributors.
+
 ## What makes Wireshape unique?
 
 There are a few key reasons that make Wireshape different.
