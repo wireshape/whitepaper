@@ -11,5 +11,5 @@
 * [WIRE Token](wire-token/README.md)
   * [Tokenomics](wire-token/tokenomics.md)
   * [Token Utility](wire-token/token-utility.md)
-* [NFT](nft.md)
+* [NFTs](nfts.md)
 * [Roadmap](roadmap.md)

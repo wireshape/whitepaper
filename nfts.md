@@ -1,10 +1,10 @@
-# NFT
+# NFTs
 
 ## Nectaverse Epic Key
 
 Created using 3D scanned nectarines by Wireshape, this special NFT entitles its owners to receive $WIRE token in proportion to the number of NFTs owned.
 
-The Unlockable Content gives access to to verify how much $WIRE the owner will be entitled to receive.
+The Unlockable Content gives access to verify how much $WIRE the owner will be entitled to receive.
 
 Nectaverse Epic Key is an ERC-1155 token on Polygon blockchain.
 
