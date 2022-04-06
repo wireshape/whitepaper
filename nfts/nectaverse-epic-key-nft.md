@@ -1,6 +1,6 @@
 # Nectaverse Epic Key NFT
 
-Created using 3D scanned nectarines by Wireshape, this special NFT entitles its owners to receive $WIRE token in proportion to the number of NFTs owned.
+Created using 3D scanned nectarines by Wireshape, this special NFT entitles its owners to receive $WIRE tokens on TGE in proportion to the number of NFTs owned.
 
 The Unlockable Content gives access to verify how much $WIRE the owner will be entitled to receive.
 
