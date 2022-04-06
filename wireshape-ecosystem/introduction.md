@@ -12,8 +12,6 @@ Wireshape founders have been in the 3D computer graphics industry for more than 
 
 With an accurate photogrammetry technique, the Wireshape cloud platform automatically generates 3D objects from photos, that will be made available to computer graphic projects, allowing brilliant photographers around the globe to use their creativity and skill to explore the world in details and receive NFTs and recurring payouts in $WIRE by becoming contributors.
 
-![](../.gitbook/assets/reality-hack.jpg)
-
 ## What makes Wireshape unique?
 
 There are a few key reasons that make Wireshape different.
@@ -36,5 +34,3 @@ The metaverse is the advent of new online environments in which people's interac
 Rising demand for blockchain-based metaverse networks and platforms for trading digital assets is expected to drive considerable market revenue growth. One of the major factors driving the future expansion of the metaverse business is the rise of the gaming industry.
 
 See more about the global metaverse market size report on ResearchAndMarkets.com.
-
-![](../.gitbook/assets/decentralized-metaverse.jpg)

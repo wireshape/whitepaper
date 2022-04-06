@@ -5,6 +5,7 @@
 ## Wireshape Ecosystem
 
 * [Introduction](wireshape-ecosystem/introduction.md)
+* [Decentralized Metaverse](wireshape-ecosystem/decentralized-metaverse.md)
 
 ***
 
