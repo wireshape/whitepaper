@@ -32,10 +32,10 @@ Producers just download and put the 3D models in their projects.
 
 Cost-effective subscription model that gives access to accurate and ready to use 3D content, compatible with all industry default softwares.
 
-### Accuracy
+### Maximum Realism
 
 Capture and delivery standard with micro details focus and rich topology, aiming for the maximum accuracy to the real object.
 
-### Delivery Standard
+### Built for the Web3
 
-Reliable assets supportes in all industry default softwares.
+Token and NFTs with true real world use purpose and usability within the ecosystem.
