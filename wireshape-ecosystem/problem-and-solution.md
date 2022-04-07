@@ -22,7 +22,7 @@ Traditional trading method not compatible with metaverse, NFT blockchain and cry
 
 ## The Solution
 
-The solution developed by Wireshape is an ecosystem that generates and provides 3D scanned content for Metaverse, VFX and Game producers.
+An ecosystem that generates and provides 3D scanned content for Metaverse, VFX and Game producers, able to save time and money to decentralize the AAA content.
 
 ### Simplified Pipeline
 
