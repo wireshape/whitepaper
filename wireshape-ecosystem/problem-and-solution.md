@@ -1,4 +1,6 @@
-# Traditional Method Problems
+# Problem and Solution
+
+## The Traditional Method Problems
 
 The traditional creation of 3D models requires a complex pipeline, which starts with research and conceptual design, goes through 3D modeling and then texturing, where colors and details are added.
 
@@ -18,4 +20,18 @@ Lack of realistic 3D objects on the industry and creative professionals doing no
 
 Traditional trading method not compatible with metaverse, NFT blockchain and crypto.
 
-![](../.gitbook/assets/wireshape-3d-platform.jpg)
+## The Solution
+
+The solution developed by Wireshape is an ecosystem that generates and provides 3D scanned content for Metaverse, VFX and Game producers.
+
+### Ready to Use
+
+Accurate 3D data and rich topology micro details.
+
+### Simplified Pipeline
+
+Just download and put the 3D models in the project.
+
+### Delivery Standard
+
+Reliable assets supportes in all industry default softwares.

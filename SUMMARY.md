@@ -5,7 +5,7 @@
 ## Wireshape Ecosystem
 
 * [Introduction](wireshape-ecosystem/introduction.md)
-* [Traditional Method Problems](wireshape-ecosystem/traditional-method-problems.md)
+* [Problem and Solution](wireshape-ecosystem/problem-and-solution.md)
 * [Photogrammetry](wireshape-ecosystem/photogrammetry.md)
 * [Contributor Platform](wireshape-ecosystem/contributor-platform.md)
 * [Decentralized Metaverse](wireshape-ecosystem/decentralized-metaverse.md)
