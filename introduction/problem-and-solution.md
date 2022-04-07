@@ -34,7 +34,7 @@ Cost-effective subscription model that gives access to ready to use 3D assets, c
 
 ### Maximum Realism
 
-Capture and delivery standard with micro details focus and rich topology, aiming for the maximum accuracy to the real object.
+Capture, automated 3D generation using photogrammetry and delivery standard with micro details focus and rich topology, aiming for the maximum accuracy to the real object.
 
 ### Built for the Web3
 
