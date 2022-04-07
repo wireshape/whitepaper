@@ -4,7 +4,7 @@
 
 ## Introduction
 
-* [Why, What and Where?](introduction/why-what-and-where.md)
+* [Why, What and When?](introduction/why-what-and-when.md)
 * [Problem and Solution](introduction/problem-and-solution.md)
 * [Decentralized Metaverse](introduction/decentralized-metaverse.md)
 * [What is Photogrammetry?](introduction/what-is-photogrammetry.md)
