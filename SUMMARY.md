@@ -6,6 +6,7 @@
 
 * [Introduction](wireshape-ecosystem/introduction.md)
 * [Traditional Method](wireshape-ecosystem/traditional-method.md)
+* [Photogrammetry](wireshape-ecosystem/photogrammetry.md)
 * [Decentralized Metaverse](wireshape-ecosystem/decentralized-metaverse.md)
 * [$WIRE Token](wireshape-ecosystem/usdwire-token/README.md)
   * [Tokenomics](wireshape-ecosystem/usdwire-token/tokenomics.md)
