@@ -30,7 +30,7 @@ Producers just download and put the 3D models in their projects.
 
 ### Ready to Use
 
-Cost-effective subscription model that gives access to accurate and ready to use 3D content, compatible with all industry default softwares.
+Cost-effective subscription model that gives access to ready to use 3D assets, compatible with all industry default softwares.
 
 ### Maximum Realism
 
