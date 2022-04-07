@@ -5,8 +5,9 @@
 ## Wireshape Ecosystem
 
 * [Introduction](wireshape-ecosystem/introduction.md)
-* [Traditional Method](wireshape-ecosystem/traditional-method.md)
+* [Traditional Method Problems](wireshape-ecosystem/traditional-method-problems.md)
 * [Photogrammetry](wireshape-ecosystem/photogrammetry.md)
+* [3D Scan Cloud Platform](wireshape-ecosystem/3d-scan-cloud-platform.md)
 * [Decentralized Metaverse](wireshape-ecosystem/decentralized-metaverse.md)
 * [$WIRE Token](wireshape-ecosystem/usdwire-token/README.md)
   * [Tokenomics](wireshape-ecosystem/usdwire-token/tokenomics.md)
