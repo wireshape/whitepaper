@@ -24,13 +24,17 @@ Traditional trading method not compatible with metaverse, NFT blockchain and cry
 
 The solution developed by Wireshape is an ecosystem that generates and provides 3D scanned content for Metaverse, VFX and Game producers.
 
-### Ready to Use
-
-Accurate 3D data and rich topology micro details.
-
 ### Simplified Pipeline
 
-Just download and put the 3D models in the project.
+Producers just download and put the 3D models in their projects.
+
+### Ready to Use
+
+Cost-effective subscription model that gives access to accurate and ready to use 3D content, compatible with all industry default softwares.
+
+### Accuracy
+
+Capture and delivery standard with micro details focus and rich topology, aiming for the maximum accuracy to the real object.
 
 ### Delivery Standard
 
