@@ -1,4 +1,4 @@
-# Traditional Method
+# Traditional Method Problems
 
 The traditional creation of 3D models requires a complex pipeline, which starts with research and conceptual design, goes through 3D modeling and then texturing, where colors and details are added.
 
@@ -17,3 +17,5 @@ Lack of realistic 3D objects on the industry and creative professionals doing no
 ### Not Web3 Compatible
 
 Traditional trading method not compatible with metaverse, NFT blockchain and crypto.
+
+![](../.gitbook/assets/wireshape-3d-platform.jpg)
