@@ -6,4 +6,6 @@ Here Wireshape will bring a curatorship of tutorials, tips and ideas for detaile
 
 **See more:**
 
-[https://lets.wireshape.net/](https://lets.wireshape.net)
+{% embed url="https://lets.wireshape.net" %}
+
+![](../.gitbook/assets/wireshape-photographer.jpg)
