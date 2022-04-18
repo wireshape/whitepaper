@@ -1,6 +1,6 @@
-# Contributor Platform
+# 3D Scan Contributor Platform
 
-Wireshape Contributor Plarform is our cloud-based system that converts images into fully accurate and realistic 3D objects through photogrammetry technology.
+Wireshape 3D Scan Contributor Plarform is our cloud-based system that converts images into fully accurate and realistic 3D objects through photogrammetry technology.
 
 Contributing photographers around the world upload images on the platform, that processes these images and generates 3D models with a high level of detail.&#x20;
 
