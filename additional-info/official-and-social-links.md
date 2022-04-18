@@ -20,10 +20,10 @@
 
 **Youtube:** [https://www.youtube.com/c/wireshape](https://www.youtube.com/c/wireshape)
 
-#### 📽 Presentation Video:&#x20;
+#### 📽 Presentation Video:
 
 [https://www.youtube.com/watch?v=S6\_g5-Wv6Q4](https://www.youtube.com/watch?v=S6\_g5-Wv6Q4)
 
 #### ****:tickets: **Investor Application:**&#x20;
 
-[https://docs.google.com/forms/d/e/1FAIpQLSfzX0sOjsYIoN7XIucwaGXzy4NDjeCf9OxKk\_E8xL1MT\_wn2g/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfzX0sOjsYIoN7XIucwaGXzy4NDjeCf9OxKk\_E8xL1MT\_wn2g/viewform)
+[View Form](https://docs.google.com/forms/d/e/1FAIpQLSfzX0sOjsYIoN7XIucwaGXzy4NDjeCf9OxKk\_E8xL1MT\_wn2g/viewform)
