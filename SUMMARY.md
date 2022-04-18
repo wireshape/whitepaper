@@ -21,7 +21,7 @@
 * [3D Scanned Assets Library](wireshape-ecosystem/3d-scanned-assets-library.md)
 * [Let's Platform](wireshape-ecosystem/lets-platform.md)
 
-## Development
+## Additional Info
 
-* [Roadmap](development/roadmap.md)
-* [Official and Social Links](development/official-and-social-links.md)
+* [Roadmap](additional-info/roadmap.md)
+* [Official and Social Links](additional-info/official-and-social-links.md)
