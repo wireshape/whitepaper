@@ -23,5 +23,6 @@
 
 ## Additional Info
 
-* [Roadmap](additional-info/roadmap.md)
 * [Official and Social Links](additional-info/official-and-social-links.md)
+* [Roadmap](additional-info/roadmap.md)
+* [Team](additional-info/team.md)
