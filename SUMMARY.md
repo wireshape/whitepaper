@@ -20,4 +20,8 @@
 * [3D Scan Contributor Platform](wireshape-ecosystem/3d-scan-contributor-platform.md)
 * [3D Scanned Assets Library](wireshape-ecosystem/3d-scanned-assets-library.md)
 * [Let's Platform](wireshape-ecosystem/lets-platform.md)
-* [Roadmap](wireshape-ecosystem/roadmap.md)
+
+## Development
+
+* [Roadmap](development/roadmap.md)
+* [Official and Social Links](development/official-and-social-links.md)
