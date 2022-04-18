@@ -26,4 +26,4 @@
 
 #### ****:tickets: **Investor Application:**&#x20;
 
-[View Form](https://docs.google.com/forms/d/e/1FAIpQLSfzX0sOjsYIoN7XIucwaGXzy4NDjeCf9OxKk\_E8xL1MT\_wn2g/viewform)
+[$WIRE Early Investor Application](https://docs.google.com/forms/d/e/1FAIpQLSfzX0sOjsYIoN7XIucwaGXzy4NDjeCf9OxKk\_E8xL1MT\_wn2g/viewform)
