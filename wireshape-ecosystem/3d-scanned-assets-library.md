@@ -31,3 +31,9 @@ Accurate maps in high definition, with perfect seams and color depth to ensure h
 #### COMPATIBLILITY Standard Formats
 
 The 3D scanned models are compatible with all softwares used in the advertising and entertainment industry. Ready to be used in metaverse, games and visual effects projects.
+
+{% embed url="https://www.youtube.com/watch?v=JGO9LRoqpGQ" %}
+
+{% embed url="https://www.youtube.com/watch?v=1NIyZDzMnFQ" %}
+
+{% embed url="https://www.youtube.com/watch?v=GqsMC3wvldk" %}
