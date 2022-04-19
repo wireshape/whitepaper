@@ -4,4 +4,4 @@ Each 3D project created on Wireshape 3D scan cloud platform generates Wireshape 
 
 The owners of these NFTs will receive recurring payments in $WIRE tokens from Wireshape Library Subscriptions. The entire amount received in $WIRE for the subscriptions will be distributed in full to the owners of these NFTs.
 
-![Image created using 3D scanned pumpkins generated in Wireshape system.](../../.gitbook/assets/4.jpg)
+![](../../.gitbook/assets/wireshape-photographer.jpg)

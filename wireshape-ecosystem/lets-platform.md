@@ -8,4 +8,4 @@ Wireshape will bring a curatorship of exclusive tutorials, tips and ideas for de
 
 {% embed url="https://lets.wireshape.net" %}
 
-![](../.gitbook/assets/wireshape-photographer.jpg)
+![](<../.gitbook/assets/wireshape-photographer (1).jpg>)
