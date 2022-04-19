@@ -28,4 +28,4 @@ $WIRE is a token with true real world use purpose. The holders will be able to s
 
 > $WIRE Token has not released yet, launching date to be announced.&#x20;
 
-![](.gitbook/assets/header-wireshape.jpg)
+![](.gitbook/assets/wireshape-boost-the-metaverse.jpg)
