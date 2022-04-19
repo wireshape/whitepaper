@@ -1,6 +1,6 @@
 # Roadmap
 
-![](../.gitbook/assets/wireshape-3d-scanned-piggy-bank.jpg)
+![](../.gitbook/assets/wireshape-notebook.jpg)
 
 #### **Q2 2021**
 
