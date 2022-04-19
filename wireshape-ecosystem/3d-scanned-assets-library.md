@@ -36,7 +36,7 @@ The 3D scanned models are compatible with all softwares used in the advertising 
 
 ![](../.gitbook/assets/wireshape-3d-stock.jpg)
 
-### Watch Some 3D Scanned Models Preview
+## Watch Some 3D Scanned Models Preview
 
 {% embed url="https://www.youtube.com/watch?v=JGO9LRoqpGQ" %}
 
