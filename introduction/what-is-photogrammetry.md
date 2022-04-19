@@ -1,4 +1,4 @@
-# Photogrammetry
+# What is Photogrammetry?
 
 Photogrammetry is a 3D recording technique that employs multiple overlapping photographs and deriving measurements from them to create a 3D model of an object or surface.
 
@@ -10,7 +10,5 @@ Photogrammetry is used extensively to combine live action with computer-generate
 
 It is also used in fields such as topographic mapping, architecture, engineering, manufacturing, quality control, police investigation, cultural heritage, and geology. Archaeologists use it to quickly produce plans of large or complex sites, and meteorologists use it to determine the wind speed of tornados when objective weather data cannot be obtained.
 
-
-
-
+![](../.gitbook/assets/wireshape-3d-scanned-food.jpg)
 
