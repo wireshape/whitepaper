@@ -38,3 +38,5 @@ The metaverse is the advent of new online environments in which people's interac
 Rising demand for blockchain-based metaverse networks and platforms for trading digital assets is expected to drive considerable market revenue growth. One of the major factors driving the future expansion of the metaverse business is the rise of the gaming industry.
 
 See more about the global metaverse market size report on ResearchAndMarkets.com.
+
+![](../.gitbook/assets/decentralized-metaverse.jpg)
