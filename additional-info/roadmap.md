@@ -1,8 +1,35 @@
 # Roadmap
 
-![](../.gitbook/assets/wireshape-roadmap.jpg)
+![](../.gitbook/assets/wireshape-3d-scanned-piggy-bank.jpg)
 
-* **2021** | 3D Scan Platform and Library Closed Beta&#x20;
-* **Early 2022** | Seed Round and Public Sale&#x20;
-* **Mid 2022** | NFTs and 3D Assets Library Launch&#x20;
-* **Late 2022** | Cloud 3D Scan Software Launch
+#### **Q2 2021**
+
+* 3D Scanned Assets Library Closed Beta&#x20;
+
+#### **Q3 2021**&#x20;
+
+* 3D Scan Contributor Platform Closed Beta
+
+#### **Q4 2021**&#x20;
+
+* Nectaverse Epic Key NFT Launch&#x20;
+
+#### **Q1 2022**&#x20;
+
+* WIRE Token Landpage Launch
+* Nectaverse Epic Key NFT Unlockable Content Revealed
+* Wallet Connected
+
+#### **Q2 2022**
+
+* Seed Round
+
+#### **Q3 2022**&#x20;
+
+* TGE and Public Sale&#x20;
+* NFTs for Wireshape Contributors NFTs Launch&#x20;
+* 3D Assets Library Launch
+
+#### **Q4 2022**
+
+* Cloud 3D Scan Software Launch
