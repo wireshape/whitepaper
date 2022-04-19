@@ -2,16 +2,30 @@
 
 ### Meet the Team that is Making $WIRE Happen
 
-Cristiano Policarpo
+#### Cristiano Policarpo | Founder & Technology Lead&#x20;
 
-Ingrid Gomes
+[Twitter](https://twitter.com/copolicarpo) | [GitHub ](https://github.com/cristianopolicarpo)| [LinkedIn](https://www.linkedin.com/in/cristiano-policarpo/)
 
-Rubens de Barros
+#### Ingrid Gomes | Founder & Product Lead
 
-Juliano Sakai is our Community Lead
+[Twitter](https://twitter.com/IngMGomes) | [LinkedIn](https://www.linkedin.com/in/ingrid-m-gomes/)
 
-Claudio Boas, Technology Lead at Luxy, is our Web3 Advisor
+#### Rubens de Barros | Founder & Content Lead
 
-Marcus Drumond, Lawyer specialized in assisting startups and tech ecosystem player, is our Legal Advisor.
+[LinkedIn](https://www.linkedin.com/in/rubens-de-barros-178367109/)
 
-Cristiano Teixeira, Founder of Sandclock, is our Blockchain Advisor.
+#### Juliano Sakai | Community Lead
+
+[LinkedIn](https://www.linkedin.com/in/julianosakai/)
+
+#### Claudio Boas | Web3 Advisor
+
+[GitHub](https://github.com/claudiovb) | [LinkedIn](https://www.linkedin.com/in/claudio-boas-b85555b9/)
+
+#### Marcus Drumond | Legal Advisor
+
+[LinkedIn](https://www.linkedin.com/in/marcus-drumond/)
+
+#### Cristiano Teixeira | Blockchain Advisor
+
+[Twitter](https://twitter.com/0xCristiano) | [LinkedIn](https://www.linkedin.com/in/cristiano-fortuna-couto-teixeira/)
