@@ -39,3 +39,5 @@ Capture, automated 3D generation using photogrammetry and delivery standard with
 ### Built for the Web3
 
 Token and NFTs with true real world use purpose and usability within the ecosystem.
+
+![](../.gitbook/assets/wireshape-3d-scanned-bali-sculpture.jpg)
