@@ -1,5 +1,7 @@
 # Team
 
+The founders has been working together for 10 years. We are a team passionate about the 3D industry! With combined experience of 30 years, providing content to large companies like Disney, Epson, Sandisk, Bose and more
+
 ### Meet the Team that is Making $WIRE Happen
 
 #### Cristiano Policarpo | Founder & Technology Lead&#x20;
