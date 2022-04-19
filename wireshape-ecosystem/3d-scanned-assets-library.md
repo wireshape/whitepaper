@@ -32,6 +32,8 @@ Accurate maps in high definition, with perfect seams and color depth to ensure h
 
 The 3D scanned models are compatible with all softwares used in the advertising and entertainment industry. Ready to be used in metaverse, games and visual effects projects.
 
+![](../.gitbook/assets/wireshape-3d-stock.jpg)
+
 ### Watch Some 3D Scanned Models Preview
 
 {% embed url="https://www.youtube.com/watch?v=JGO9LRoqpGQ" %}
