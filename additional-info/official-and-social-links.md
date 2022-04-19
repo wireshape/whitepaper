@@ -1,6 +1,6 @@
 # Official and Social Links
 
-![](../.gitbook/assets/wireshape-notebook.jpg)
+![](../.gitbook/assets/1517513532871.jpg)
 
 #### 🔗 Official Links&#x20;
 
