@@ -4,7 +4,7 @@
 
 #### 🔗 Official Links&#x20;
 
-**Website:** [https://wireshape.com/ ](https://wireshape.com)
+**Website:** [https://wireshape.com/ ](https://wireshape.com/)
 
 **Wire Token:** [https://wire-token.com](https://wire-token.com)
 
