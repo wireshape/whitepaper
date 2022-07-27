@@ -17,7 +17,7 @@
 * [NFTs](wireshape-ecosystem/nfts/README.md)
   * [Nectaverse Epic Key V2 NFT](wireshape-ecosystem/nfts/nectaverse-epic-key-v2-nft.md)
   * [NFT Source for Wireshape Contributors](wireshape-ecosystem/nfts/nfts-for-wireshape-contributors.md)
-  * [License 3D NFTs](wireshape-ecosystem/nfts/license-3d-nfts.md)
+  * [3D NFT Licenses](wireshape-ecosystem/nfts/3d-nft-licenses.md)
 * [Wireshape Network](wireshape-ecosystem/wireshape-network.md)
 * [3D Scan Contributor Platform](wireshape-ecosystem/3d-scan-contributor-platform.md)
 * [3D Scanned Assets Library](wireshape-ecosystem/3d-scanned-assets-library.md)
