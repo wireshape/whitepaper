@@ -6,7 +6,7 @@ Contributing photographers around the world upload images on the platform, that 
 
 The 3D models are then made available online on Wireshape 3D Scan Library, where through a subscription plan, metaverse, VFX and game producers, can choose, download and put it in their productions.
 
-Each 3D project created on Wireshape Contributor Platform generates Wireshape NFTs that will be distributed to the co-authors of such a project. Check here for more details: [nfts-for-wireshape-contributors.md](nfts/nfts-for-wireshape-contributors.md "mention")
+Each 3D project created on Wireshape Contributor Platform generates Wireshape NFTs that will be distributed to the co-authors of such a project. Check here for more details: [nft-source-for-wireshape-contributors.md](nfts/nft-source-for-wireshape-contributors.md "mention")
 
 On the platform, the contributor can:
 
