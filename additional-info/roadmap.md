@@ -23,10 +23,11 @@
 #### **Q2 2022**
 
 * Strategic Partnerships
-* Seed Round
+* Wireshape Studio Platform
 
 #### **Q3 2022**&#x20;
 
+* Seed Round
 * TGE and Public Sale&#x20;
 * NFTs for Wireshape Contributors Launch&#x20;
 * 3D Assets Library Launch
