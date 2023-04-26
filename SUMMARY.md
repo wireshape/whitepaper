@@ -22,9 +22,15 @@
 * [NFTs](dao/nfts/README.md)
   * [Nectaverse Epic Key V2 NFT](dao/nfts/nectaverse-epic-key-v2-nft.md)
 
+## Blockchain
+
+* [Setup](blockchain/setup.md)
+* [Wire Block Explorer](blockchain/wire-block-explorer.md)
+* [API](blockchain/api.md)
+* [Validation Node](blockchain/validation-node.md)
+
 ## Additional Info
 
 * [Official and Social Links](additional-info/official-and-social-links.md)
-* [Roadmap](additional-info/roadmap.md)
-* [Team](additional-info/team.md)
+* [DAO Team](additional-info/dao-team.md)
 * [Disclosures](additional-info/disclosures.md)

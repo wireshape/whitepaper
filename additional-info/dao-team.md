@@ -1,8 +1,6 @@
-# Team
+# DAO Team
 
-The founders has been working together for 10 years. We are a team passionate about the 3D industry! With combined experience of 30 years, providing content to large companies like Disney, Epson, Sandisk, Bose and more.
-
-### Meet the Team that is Making $WIRE Happen
+### Meet the Team that is Making Wireshape Blochchain Happen
 
 #### Cristiano Policarpo | Founder & Technology Lead&#x20;
 
@@ -15,6 +13,14 @@ The founders has been working together for 10 years. We are a team passionate ab
 #### Rubens de Barros | Founder & Content Lead
 
 [LinkedIn](https://www.linkedin.com/in/rubens-de-barros-178367109/)
+
+#### Gabriel Seixo | BD
+
+[LinkedIn](https://www.linkedin.com/in/gabrielsbfmoura/)
+
+#### Vinicius Rolim | BD
+
+[LinkedIn](https://www.linkedin.com/in/viniciusrolim/)
 
 #### Juliano Sakai | Community Lead
 
