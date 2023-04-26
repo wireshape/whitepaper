@@ -5,7 +5,7 @@
 ## Whitepaper
 
 * [Introduction](whitepaper/introduction.md)
-* [Problem and Solution](whitepaper/problem-and-solution.md)
+* [The Problem](whitepaper/the-problem.md)
 * [Decentralized Metaverse](whitepaper/decentralized-metaverse.md)
 * [What is Photogrammetry?](whitepaper/what-is-photogrammetry.md)
 
