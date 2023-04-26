@@ -7,7 +7,10 @@
 * [Introduction](whitepaper/introduction.md)
 * [The Problem](whitepaper/the-problem.md)
 * [Wireshape Protocol](whitepaper/wireshape-protocol.md)
-* [TCPR](whitepaper/tcpr.md)
+* [TCPR](whitepaper/what-is-photogrammetry.md)
+* [Open Product Data Standard](whitepaper/open-product-data-standard.md)
+* [The Community](whitepaper/the-community.md)
+* [The Ecosystem](whitepaper/the-ecosystem.md)
 
 ## Wireshape Ecosystem
 
