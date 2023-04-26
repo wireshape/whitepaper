@@ -14,16 +14,13 @@
 
 ## DAO
 
-* [Wireshape DAO](dao/wireshape-dao/README.md)
-  * [Tokenomics](dao/wireshape-dao/tokenomics.md)
-  * [Token Utility](dao/wireshape-dao/token-utility.md)
+* [Wireshape DAO](dao/wireshape-dao.md)
+* [Purpose](dao/purpose.md)
+* [3D Scanned Assets Library](dao/3d-scanned-assets-library.md)
 * [NFTs](dao/nfts/README.md)
   * [Nectaverse Epic Key V2 NFT](dao/nfts/nectaverse-epic-key-v2-nft.md)
   * [NFT Source for Wireshape Contributors](dao/nfts/nft-source-for-wireshape-contributors.md)
   * [3D NFT Licenses](dao/nfts/3d-nft-licenses.md)
-* [Wireshape Network](dao/wireshape-network.md)
-* [3D Scan Contributor Platform](dao/3d-scan-contributor-platform.md)
-* [3D Scanned Assets Library](dao/3d-scanned-assets-library.md)
 * [Let's Platform](dao/lets-platform.md)
 
 ## Additional Info
