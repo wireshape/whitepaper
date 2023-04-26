@@ -4,6 +4,8 @@ description: Wireshape is the open blockchain for global product data.
 
 # Overview
 
+<figure><img src=".gitbook/assets/ws-core.jpg" alt=""><figcaption></figcaption></figure>
+
 Wireshape is an open blockchain solution that provides a decentralized, secure, and transparent way for storing and sharing product data. This eliminates the need for a central authority to manage and verify the data, and allows all stakeholders to trust the information being shared. The distributed nature of blockchain also ensures that the data is tamper-proof and cannot be altered without the consensus of the network participants.
 
 ## Current market challenges
