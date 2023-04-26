@@ -2,12 +2,12 @@
 
 * [Overview](README.md)
 
-## Introduction
+## Whitepaper
 
-* [Why, What and When?](introduction/why-what-and-when.md)
-* [Problem and Solution](introduction/problem-and-solution.md)
-* [Decentralized Metaverse](introduction/decentralized-metaverse.md)
-* [What is Photogrammetry?](introduction/what-is-photogrammetry.md)
+* [Introduction](whitepaper/introduction.md)
+* [Problem and Solution](whitepaper/problem-and-solution.md)
+* [Decentralized Metaverse](whitepaper/decentralized-metaverse.md)
+* [What is Photogrammetry?](whitepaper/what-is-photogrammetry.md)
 
 ## Wireshape Ecosystem
 
