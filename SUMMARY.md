@@ -7,7 +7,7 @@
 * [Introduction](whitepaper/introduction.md)
 * [The Problem](whitepaper/the-problem.md)
 * [Wireshape Protocol](whitepaper/wireshape-protocol.md)
-* [What is Photogrammetry?](whitepaper/what-is-photogrammetry.md)
+* [TCPR](whitepaper/tcpr.md)
 
 ## Wireshape Ecosystem
 
