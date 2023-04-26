@@ -6,7 +6,7 @@
 
 * [Introduction](whitepaper/introduction.md)
 * [The Problem](whitepaper/the-problem.md)
-* [Decentralized Metaverse](whitepaper/decentralized-metaverse.md)
+* [Wireshape Protocol](whitepaper/wireshape-protocol.md)
 * [What is Photogrammetry?](whitepaper/what-is-photogrammetry.md)
 
 ## Wireshape Ecosystem
