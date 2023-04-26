@@ -12,19 +12,19 @@
 * [The Community](whitepaper/the-community.md)
 * [The Ecosystem](whitepaper/the-ecosystem.md)
 
-## Wireshape Ecosystem
+## DAO
 
-* [$WIRE Token](wireshape-ecosystem/usdwire-token/README.md)
-  * [Tokenomics](wireshape-ecosystem/usdwire-token/tokenomics.md)
-  * [Token Utility](wireshape-ecosystem/usdwire-token/token-utility.md)
-* [NFTs](wireshape-ecosystem/nfts/README.md)
-  * [Nectaverse Epic Key V2 NFT](wireshape-ecosystem/nfts/nectaverse-epic-key-v2-nft.md)
-  * [NFT Source for Wireshape Contributors](wireshape-ecosystem/nfts/nfts-for-wireshape-contributors.md)
-  * [3D NFT Licenses](wireshape-ecosystem/nfts/3d-nft-licenses.md)
-* [Wireshape Network](wireshape-ecosystem/wireshape-network.md)
-* [3D Scan Contributor Platform](wireshape-ecosystem/3d-scan-contributor-platform.md)
-* [3D Scanned Assets Library](wireshape-ecosystem/3d-scanned-assets-library.md)
-* [Let's Platform](wireshape-ecosystem/lets-platform.md)
+* [Wireshape DAO](dao/wireshape-dao/README.md)
+  * [Tokenomics](dao/wireshape-dao/tokenomics.md)
+  * [Token Utility](dao/wireshape-dao/token-utility.md)
+* [NFTs](dao/nfts/README.md)
+  * [Nectaverse Epic Key V2 NFT](dao/nfts/nectaverse-epic-key-v2-nft.md)
+  * [NFT Source for Wireshape Contributors](dao/nfts/nft-source-for-wireshape-contributors.md)
+  * [3D NFT Licenses](dao/nfts/3d-nft-licenses.md)
+* [Wireshape Network](dao/wireshape-network.md)
+* [3D Scan Contributor Platform](dao/3d-scan-contributor-platform.md)
+* [3D Scanned Assets Library](dao/3d-scanned-assets-library.md)
+* [Let's Platform](dao/lets-platform.md)
 
 ## Additional Info
 
