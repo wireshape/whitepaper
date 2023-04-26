@@ -1,37 +1,41 @@
 ---
-description: 3D Scan to hack reality and a decentralized Metaverse
+description: Wireshape is the open blockchain for global product data.
 ---
 
 # Overview
 
-{% embed url="https://youtu.be/S6_g5-Wv6Q4" %}
+Wireshape is an open blockchain solution that provides a decentralized, secure, and transparent way for storing and sharing product data. This eliminates the need for a central authority to manage and verify the data, and allows all stakeholders to trust the information being shared. The distributed nature of blockchain also ensures that the data is tamper-proof and cannot be altered without the consensus of the network participants.
 
-## What is Wireshape?
+## Current market challenges
 
-Wireshape is an ecosystem that turns photos into high-resolution 3D objects and provides this 3D scanned data for metaverse, VFX and game produces, so that reality is ready to be used in virtual worlds, eliminating the complexity, slowness and high cost of creating 3D models. Wireshape reached a highly scalable result in 3D scanning technology, making it possible to generate 3D models just like the real object and ready to use in instants instead of months.&#x20;
+One of the biggest challenges in supply chain management today is the lack of standardization in product information distribution. This can lead to confusion and misunderstandings between manufacturers, distributors, sellers and consumers, generating a high rate of complaints and returns, especially in online purchases, where it is difficult for consumers to find the information they need to make informed purchasing decisions.
 
-> We are committed to making the metaverse an accessible and decentralized environment.
+## Open blockchain
 
-Wireshape 3D scanned assets stock brings together contributors from across the globe, who receive token rewards and have their co-authorship guaranteed by NFTs.&#x20;
+<figure><img src=".gitbook/assets/open-product-data-blockchain.jpg" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-This global reach has only been possible due to the breaking down of the bureaucratic and expensive barrier of the traditional banking system when dealing with international transactions.
-{% endhint %}
+Wireshape open blockchain technology has the potential to revolutionize the way that product data is managed and shared globally. With the increasing trend towards ecommerce, it has become increasingly important for product information to be easily accessible and standardized.
 
-Filmmakers, Metaverse and Game developers will be able to compose incredibly realistic scenes with just a few clicks. &#x20;
+By implementing Wireshape blockchain-based product information standard, all stakeholders in the product lifecycle, from manufacturers to consumers, can access and share accurate, up-to-date information in real-time.
 
-> We believe that in the near future people will produce and consume 3D models as they produce and consume photos and videos today. We are here to deliver the tools to make this possible.
+## Token Curated Product Registry (TCPR)
 
-## What is $WIRE?
+<figure><img src=".gitbook/assets/wireshape-dapp-white.jpg" alt=""><figcaption></figcaption></figure>
 
-$WIRE is a token with true real world use purpose. The holders will be able to stake to vote on DAO governance and to earn staking rewards, attend to exclusive events, pay for Wireshape Library and 3D Scan Software Subscriptions, access the Let's education platform, pay the contributors royalties and more.
+In Wireshape blockchain the engine of decentralization of product data is in charge of the Token Curated Product Registry (TCPR), a decentralized system of curation of product information, which creates a reliable database recorded on the blockchain and maintained by the community, which receives intrinsic incentives in WWIRE tokens as rewards.
 
-Check here for more details:
+## Reviews <a href="#reviews" id="reviews"></a>
 
-{% content-ref url="wireshape-ecosystem/usdwire-token/" %}
-[usdwire-token](wireshape-ecosystem/usdwire-token/)
-{% endcontent-ref %}
+Decentralized reviews are an important aspect of Web3 technology in e-commerce, as they provide a more secure and transparent way for customers to rate and review products. Decentralized reviews eliminate the need for intermediaries, such as centralized platforms, and provide customers with more control over the information they share and access. This allows customers to make informed decisions about the products they purchase, while also providing merchants with more accurate feedback about their products.
 
-> $WIRE Token has not released yet, launching date to be announced.&#x20;
+## AR NFTs <a href="#ar-nfts" id="ar-nfts"></a>
 
-![](.gitbook/assets/wireshape-boost-the-metaverse.jpg)
+AR NFTs, or Augmented Reality Non-Fungible Tokens, are another innovative application of Web3 technology in e-commerce. AR NFTs are digital assets that are stored on the blockchain and can be used to create unique and interactive shopping experiences for customers. For example, AR NFTs can be used to provide customers with virtual try-on experiences for clothing, or to create interactive product demonstrations. This can help to increase customer engagement and to create a more immersive and memorable shopping experience.
+
+## API
+
+<figure><img src=".gitbook/assets/ws-api.jpg" alt=""><figcaption></figcaption></figure>
+
+Innovative platforms and e-commerces can quickly populate their systems with complete product data by integrating the API provided by Wireshape with blockchain data, making it easier and more cost-effective to launch.
+
+By providing increased security, transparency and efficiency, Wireshape hopes to encourage decentralization and innovation in the consumer goods space which leads to a better and more equitable experience for all stakeholders.

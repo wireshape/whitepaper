@@ -24,6 +24,6 @@
 
 [https://www.youtube.com/watch?v=S6\_g5-Wv6Q4](https://www.youtube.com/watch?v=S6\_g5-Wv6Q4)
 
-#### ****:tickets: **Investor Application:**&#x20;
+#### :tickets: **Investor Application:**&#x20;
 
 [$WIRE Early Investor Application](https://docs.google.com/forms/d/e/1FAIpQLSfzX0sOjsYIoN7XIucwaGXzy4NDjeCf9OxKk\_E8xL1MT\_wn2g/viewform)
