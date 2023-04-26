@@ -21,8 +21,6 @@
 * [Decentralized Governance](dao/decentralized-governance.md)
 * [NFTs](dao/nfts/README.md)
   * [Nectaverse Epic Key V2 NFT](dao/nfts/nectaverse-epic-key-v2-nft.md)
-  * [NFT Source for Wireshape Contributors](dao/nfts/nft-source-for-wireshape-contributors.md)
-  * [3D NFT Licenses](dao/nfts/3d-nft-licenses.md)
 
 ## Additional Info
 
