@@ -16,7 +16,7 @@
 
 * [Wireshape DAO](dao/wireshape-dao.md)
 * [Purpose](dao/purpose.md)
-* [3D Scanned Assets Library](dao/3d-scanned-assets-library.md)
+* [Membership](dao/membership.md)
 * [Contributors Program](dao/contributors-program.md)
 * [NFTs](dao/nfts/README.md)
   * [Nectaverse Epic Key V2 NFT](dao/nfts/nectaverse-epic-key-v2-nft.md)
