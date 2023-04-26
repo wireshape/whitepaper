@@ -1,19 +1,9 @@
-# 3D Scan Contributor Platform
+# Purpose
 
-Wireshape 3D Scan Contributor Plarform is our cloud-based system that converts images into fully accurate and realistic 3D objects through photogrammetry technology.
+At Wireshape DAO, we are driven by a strong commitment to democratizing access to product data through decentralized and open technology. Our mission is to establish a community-driven ecosystem that fosters collaboration, transparency, and trust in data collection and curation.
 
-Contributing photographers around the world upload images on the platform, that processes these images and generates 3D models with a high level of detail.&#x20;
+By leveraging the power of Web3 and open protocols, we are creating a public good that empowers individuals and organizations to participate in the creation and maintenance of product data. Our approach promotes inclusivity, fairness, and the collective intelligence of the community to produce high-quality data that can be trusted and verified.
 
-The 3D models are then made available online on Wireshape 3D Scan Library, where through a subscription plan, metaverse, VFX and game producers, can choose, download and put it in their productions.
+Our goal is to enable a seamless and secure exchange of data that benefits everyone involved, from individual contributors to businesses and consumers. By creating a decentralized system for product data, we are fostering innovation, breaking down barriers, and driving economic growth.
 
-Each 3D project created on Wireshape Contributor Platform generates Wireshape NFTs that will be distributed to the co-authors of such a project. Check here for more details: [nft-source-for-wireshape-contributors.md](nfts/nft-source-for-wireshape-contributors.md "mention")
-
-On the platform, the contributor can:
-
-* **Create projects** by sending images to become 3D objects.
-* **Add** project **name** and **description**.
-* **Monitor the status** of project processing.
-* **Track 3D objects** that he/she is co-author.
-* **Check how many NFTs** he/she owns and **how many $WIRE tokens** is entitled to receive.
-
-![](../.gitbook/assets/wireshape-photographers.jpg)
+At Wireshape DAO, we believe in the importance of open access to data as a critical enabler of progress and development. Join us today to be a part of a transformative movement that is shaping the future of data exchange and contributing to a more equitable and sustainable world.\
