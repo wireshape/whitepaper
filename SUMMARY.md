@@ -29,6 +29,15 @@
 * [API](blockchain/api.md)
 * [Validation Node](blockchain/validation-node.md)
 
+## dapp
+
+* [dApp](dapp/dapp.md)
+* [Explore](dapp/explore.md)
+* [Add Product](dapp/add-product.md)
+* [Update Product](dapp/update-product.md)
+* [Curate Products](dapp/curate-products.md)
+* [Brand Verification](dapp/brand-verification.md)
+
 ## Additional Info
 
 * [Official and Social Links](additional-info/official-and-social-links.md)

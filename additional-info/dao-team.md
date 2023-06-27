@@ -4,11 +4,11 @@
 
 #### Cristiano Policarpo | Founder & Technology Lead&#x20;
 
-[Twitter](https://twitter.com/copolicarpo) | [GitHub ](https://github.com/cristianopolicarpo)| [LinkedIn](https://www.linkedin.com/in/cristiano-policarpo/)
+[Twitter](https://twitter.com/0xPolicarpo) | [GitHub ](https://github.com/cristianopolicarpo)| [LinkedIn](https://www.linkedin.com/in/cristiano-policarpo/)
 
 #### Ingrid Gomes | Founder & Product Lead
 
-[Twitter](https://twitter.com/IngMGomes) | [LinkedIn](https://www.linkedin.com/in/ingrid-m-gomes/)
+[Twitter](https://twitter.com/0xIngrid) | [LinkedIn](https://www.linkedin.com/in/ingrid-m-gomes/)
 
 #### Rubens de Barros | Founder & Content Lead
 

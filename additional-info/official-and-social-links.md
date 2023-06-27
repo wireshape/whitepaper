@@ -1,12 +1,12 @@
 # Official and Social Links
 
-![](../.gitbook/assets/1517513532871.jpg)
+![](../.gitbook/assets/ws-core.jpg)
 
 #### 🔗 Official Links&#x20;
 
-**Website:** [https://wireshape.com/ ](https://wireshape.com/)
+**Website:** [https://wireshape.org](https://wireshape.org)
 
-**Wire Token:** [https://wire-token.com](https://wire-token.com)
+**Blog:** [**http://lets.wireshape.net**](http://lets.wireshape.net/)
 
 #### 📢 Social&#x20;
 
@@ -17,3 +17,5 @@
 **Telegram:** [https://t.me/wireshape ](https://t.me/wireshape)
 
 **Instagram:** [https://www.instagram.com/wireshape ](https://www.instagram.com/wireshape)
+
+**Medium:** [https://wireshape.medium.com](https://wireshape.medium.com)
