@@ -6,7 +6,7 @@
 
 **Website:** [https://wireshape.org](https://wireshape.org)
 
-**Blog:** [**http://lets.wireshape.net**](http://lets.wireshape.net/)
+**Blog:** [http://lets.wireshape.net](http://lets.wireshape.net/)
 
 #### 📢 Social&#x20;
 

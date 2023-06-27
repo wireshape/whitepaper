@@ -43,3 +43,4 @@
 * [Official and Social Links](additional-info/official-and-social-links.md)
 * [DAO Team](additional-info/dao-team.md)
 * [Disclosures](additional-info/disclosures.md)
+* [FAQ](additional-info/faq.md)
