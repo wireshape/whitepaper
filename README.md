@@ -4,6 +4,8 @@ description: Wireshape is the open enterprise blockchain for supply chain manage
 
 # Abstract
 
+<figure><img src=".gitbook/assets/wireshape-blockchain.jpg" alt=""><figcaption></figcaption></figure>
+
 The global e-commerce landscape is plagued by inaccurate product data, leading to customer dissatisfaction, returns, and environmental waste. Nowadays, a quarter of global online purchases end up in landfills due to misinformation. Wireshape emerges as a revolutionary solution, leveraging blockchain technology to revolutionize product data management and build a future of transparency and trust.
 
 The core of Wireshape is a secure and decentralized network fueled by the $WIRE token. Data lives on the blockchain, ensuring immutability and accessibility. A Proof-of-Authority consensus mechanism, facilitated by trusted validators, guarantees data integrity and network stability.
