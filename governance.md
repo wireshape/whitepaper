@@ -1,4 +1,4 @@
-# Decentralized Governance
+# Governance
 
 Decentralized governance is at the core of Wireshape's philosophy and approach. By leveraging blockchain technology and the principles of decentralization, we aim to create a more transparent, democratic and inclusive system for product data management. Our goal is to eliminate the centralized control of data by large corporations and institutions, and to create an open and fair playing field for all.
 

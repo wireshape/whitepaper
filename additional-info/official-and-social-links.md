@@ -1,16 +1,14 @@
 # Official and Social Links
 
-![](../.gitbook/assets/ws-core.jpg)
-
 #### 🔗 Official Links&#x20;
 
 **Website:** [https://wireshape.org](https://wireshape.org)
 
-**Blog:** [http://lets.wireshape.net](http://lets.wireshape.net/)
+**Docs:** [https://docs.wireshape.org](https://docs.wireshape.org/)
 
 #### 📢 Social&#x20;
 
-**Twitter:** [https://twitter.com/wireshape](https://twitter.com/wireshape)&#x20;
+**X (Twitter):** [https://twitter.com/wireshape](https://twitter.com/wireshape)&#x20;
 
 **Discord:** [https://discord.wireshape.org](https://discord.wireshape.org)
 

@@ -15,6 +15,4 @@ Here are some of the advantages of becoming a Member:&#x20;
 
 As the blockchain industry continues to grow, it is essential to establish a strong network of trusted and reputable organizations to support and enhance the development of decentralized technology. By becoming a Wireshape member, the company or educational institution can establish itself as a key player in the Web3 space and contribute to the creation of public goods and open technology that benefits everyone.
 
-[**Contact Us to Discuss this Opportunity**](https://labs.wireshape.com/#contact)
-
 The number of available membership spots will become increasingly limited. So if you are interested in joining a groundbreaking community that is shaping the future of blockchain technology, apply now and secure your place among the group of organizations who are driving the future of blockchain technology.
