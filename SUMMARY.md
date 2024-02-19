@@ -3,6 +3,7 @@
 * [Abstract](README.md)
 * [Introduction](introduction.md)
 * [Problem Statement](problem-statement.md)
+* [Solution](solution.md)
 * [Community](community.md)
 * [Governance](governance.md)
 * [TCPR](tcpr.md)
